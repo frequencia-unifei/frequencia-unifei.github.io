@@ -1,3 +1,5 @@
+Cores e fontes primária e secundária: /_data/template.yml
+
 Agency Jekyll theme
 ====================
 
