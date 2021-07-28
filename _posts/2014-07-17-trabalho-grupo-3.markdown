@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Trabalho grupo 3
+subtitle: 
 layout: default
 modal-id: 2
 date: 2014-07-17
