@@ -865,20 +865,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
-
-.row_nowrap {
-  display: flex;
-  flex-wrap: nowrap;
-}
-
-.logo_text_top {
-    vertical-align: text-top;
-}
-
-.img_cabecalho {
-    float: leaft;
-}
-
-.p_cabecalho {
-    overflow: hidden;
-}
