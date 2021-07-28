@@ -1,5 +1,5 @@
 ---
-title: Título
+title: Trabalho grupo 2
 subtitle: Subtítulo
 layout: default
 modal-id: 1
