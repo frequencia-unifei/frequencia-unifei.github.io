@@ -1,5 +1,5 @@
 ---
-title: Round Icons
+title: Trabalho grupo 7
 subtitle: Graphic Design
 layout: default
 modal-id: 6
