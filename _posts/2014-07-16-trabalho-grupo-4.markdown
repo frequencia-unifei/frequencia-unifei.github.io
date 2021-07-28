@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: Trabalho grupo 4
 subtitle: Website Design
 layout: default
 modal-id: 3
