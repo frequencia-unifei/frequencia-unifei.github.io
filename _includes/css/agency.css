@@ -874,4 +874,11 @@ body {
 .logo_text_top {
     vertical-align: text-top;
 }
-    
+
+.img_cabecalho {
+    float: leaft;
+}
+
+.p_cabecalho {
+    overflow: hidden;
+}
