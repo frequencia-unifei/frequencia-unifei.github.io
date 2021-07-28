@@ -1,5 +1,5 @@
 ---
-title: Startup Framework
+title: Trabalho grupo 6
 subtitle: Website Design
 layout: default
 modal-id: 5
