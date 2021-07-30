@@ -13,7 +13,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Newton de Figueiredo Filho
-  pic: newton.jpg
+  pic: newton
   position: Professor/Coordenador
   social:
     - title: twitter
