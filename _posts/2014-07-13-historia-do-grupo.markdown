@@ -2,7 +2,7 @@
 title: História do grupo
 subtitle: Graphic Design
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
