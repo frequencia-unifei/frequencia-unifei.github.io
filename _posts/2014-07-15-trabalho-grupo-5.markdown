@@ -1,6 +1,6 @@
 ---
-title: Projeto Bingo: Radiotelescópios, pesquisa e divulgação científica
-subtitle: Como um radio telescópio inovador pode mudar o cenário científico e educacional brasileiro.
+title: Projeto Bingo
+subtitle: Radiotelescópios, pesquisa e divulgação científica.
 layout: default
 modal-id: 4
 date: 2014-07-15
