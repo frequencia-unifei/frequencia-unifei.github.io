@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
-thumbnail: Logo bingo.JPG
+thumbnail: Logo bingo.png
 alt: image-alt
 project-date: Agosto 2021
 category: Divulgação científica
