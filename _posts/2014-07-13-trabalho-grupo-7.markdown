@@ -1,6 +1,6 @@
 ---
-title: Transformada Ótica
-subtitle: Graphic Design
+title: Transformada Óptica
+subtitle: Técnicas avançadas de análise.
 layout: default
 modal-id: 6
 date: 2014-07-15
