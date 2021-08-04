@@ -1,5 +1,5 @@
 ---
-title: Trabalho grupo 6
+title: Construção de antena
 subtitle: Website Design
 layout: default
 modal-id: 5
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Alexandre Marciente.
 
 ---
