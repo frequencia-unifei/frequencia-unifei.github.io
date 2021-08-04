@@ -4,7 +4,7 @@ subtitle: Técnicas avançadas de análise.
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
+img: Transformada óptica.jpg
 thumbnail: Transformada óptica.jpg
 alt: image-alt
 project-date: Agosto 2021
