@@ -4,7 +4,7 @@ subtitle: Radiotelescópios, pesquisa e divulgação científica.
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
+img: Reflexão de ondas BINGO.jpeg
 thumbnail: Logo bingo.png
 alt: image-alt
 project-date: Agosto 2021
