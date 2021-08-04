@@ -4,7 +4,7 @@ subtitle: Como construir um repetidor de onda eletromagnética?
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: Mapa de calor Antena Alexandre.png
+img: Antena Alexandre.png
 thumbnail: Antena Alexandre.png
 alt: image-alt
 project-date: Agosto 2021
