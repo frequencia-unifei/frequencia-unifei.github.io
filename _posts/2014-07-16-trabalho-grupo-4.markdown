@@ -8,7 +8,7 @@ img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+autores: João Rodolpho e Natã.
 category: Web Development
 description: João Rodolpho e Natã.
 
