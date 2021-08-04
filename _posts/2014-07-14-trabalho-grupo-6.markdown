@@ -8,7 +8,7 @@ img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+autores: Alexandre Marciente.
 category: Web Development
 description: Alexandre Marciente.
 
