@@ -1,6 +1,6 @@
 ---
 title: Transformada Óptica
-subtitle: Técnicas avançadas de análise.
+subtitle: A técnica que permite estudar fenômenos gravitacionais em nosso laboratório.
 layout: default
 modal-id: 6
 date: 2014-07-15
