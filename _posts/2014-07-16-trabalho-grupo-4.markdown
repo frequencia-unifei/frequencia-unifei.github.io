@@ -1,5 +1,5 @@
 ---
-title:Termômetros digitais
+title: Termômetros digitais
 subtitle: Website Design
 layout: default
 modal-id: 3
