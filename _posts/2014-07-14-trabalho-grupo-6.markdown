@@ -4,8 +4,8 @@ subtitle: Como construir um repetidor de onda eletromagnética
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: Logo bingo.png
-thumbnail: Logo bingo.png
+img: Antena Alexandre.png
+thumbnail: Mapa de calor Antena Alexandre.png
 alt: image-alt
 project-date: Agosto 2021
 autores: Alexandre Marciente.
