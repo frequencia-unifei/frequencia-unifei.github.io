@@ -8,8 +8,7 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+autores: João Paulo Almeida e Ricardo
 category: Web Development
-description: João Paulo Almeida e Ricardo.
-
+description: Neste vídeo buscamos discutir um pouco sobre como a propagação de ondas eletromagnéticas foi entendida ao longo do tempo, classicamente e também com a óptica da relatividade, até chegar em técnicas mais avançadas, dando alguns exemplos e aplicações.
 ---
