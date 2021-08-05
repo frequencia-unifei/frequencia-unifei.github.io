@@ -4,8 +4,8 @@ subtitle: Uma análise histórica
 layout: default
 modal-id: 8
 date: 2021-07-15
-img: Antenas trabalho.png
-thumbnail: Antenas trabalho.png
+img: Antenas trabalho (2).png
+thumbnail: Antenas trabalho (2).png
 alt: image-alt
 project-date: Agosto 2021
 autores: Lucas, Matheus Machado, Natalio.
