@@ -4,8 +4,8 @@ subtitle: As verdades e as mentiras sobre esse assunto
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: Termômetros Ópticos.png
-thumbnail: Termômetros Ópticos.png
+img: Termômetros ópticos.png
+thumbnail: Termômetros ópticos.png
 alt: image-alt
 project-date: Agosto 2021
 autores: João Rodolpho e Natã.
