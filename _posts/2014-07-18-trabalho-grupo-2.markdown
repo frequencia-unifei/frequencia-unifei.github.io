@@ -1,6 +1,6 @@
 ---
 title: Antenas
-subtitle: Conheça a história desses objetos cruciais para o mundo moderno
+subtitle: Uma análise histórica
 layout: default
 modal-id: 1
 date: 2021-07-15
