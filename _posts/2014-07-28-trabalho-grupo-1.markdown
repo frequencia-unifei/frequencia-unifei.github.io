@@ -1,6 +1,6 @@
 ---
 title: Antena Yagi
-subtitle: Texto
+subtitle: Criação da página de Wikipedia
 layout: default
 modal-id: 1
 date: 2021-07-15
